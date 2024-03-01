@@ -8,3 +8,7 @@ header{
 .cabecalho-imagem{
     width: 100px;
 }
+
+.cabecalho-lista-item{
+    display: inline-block;
+}
