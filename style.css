@@ -1,6 +1,8 @@
 header{
     background-color: #97F813;
     color: white;
+    display: flex;
+    justify-content: space-around;
 }
 
 .cabecalho-imagem{
